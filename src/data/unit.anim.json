@@ -1,0 +1,22 @@
+{
+  "sample": {
+    "idle": {
+      "image": "/asset/unit/unit.idle.48x48.png",
+      "w": 48,
+      "h": 48,
+      "length": 10
+    },
+    "walk": {
+      "image": "/asset/unit/unit.walk.48x48.png",
+      "w": 48,
+      "h": 48,
+      "length": 8
+    },
+    "run": {
+      "image": "/asset/unit/unit.run.48x48.png",
+      "w": 48,
+      "h": 48,
+      "length": 8
+    }
+  }
+}
